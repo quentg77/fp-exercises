@@ -40,7 +40,7 @@ You **CAN'T** use any libraries.
 
 ### 01 Deep Array
 
-Filename : **`ex01.deepArrayInfos.ts`**
+Filename : **`deepArrayInfos.ts`**
 
 Write a functions that :
 
